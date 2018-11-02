@@ -1,0 +1,39 @@
+id
+No description provided
+Numeric
+candidate
+No description provided
+String
+candidate_confidence
+No description provided
+Numeric
+relevant_yn
+No description provided
+String
+relevant_yn_confidence
+No description provided
+Numeric
+sentiment
+No description provided
+String
+sentiment_confidence
+No description provided
+Numeric
+subject_matter
+No description provided
+String
+subject_matter_confidence
+No description provided
+Numeric
+candidate_gold
+No description provided
+String
+name
+No description provided
+String
+relevant_yn_gold
+No description provided
+String
+retweet_count
+No description provided
+Numeric
